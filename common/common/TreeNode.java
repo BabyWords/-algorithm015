@@ -1,4 +1,4 @@
-package conmmon;
+package common;
 
 public class TreeNode {
     int val;
